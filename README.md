@@ -1,5 +1,8 @@
 # Index du Guide Avancé des Protocoles de Sécurité
 
+<img width="1536" height="1024" alt="ec54d18b-e5a9-43da-878a-cb25a4f4e049" src="https://github.com/user-attachments/assets/89195ba1-9848-434d-9fe6-a43fdb603e10" />
+
+
 **Auteur :** hackers_tchad  
 **Date :** 2026  
 **Version :** 1.0
